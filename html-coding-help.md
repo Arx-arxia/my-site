@@ -1,2 +1,0 @@
-to know how to code html, do this course!
-www.khanacademy.org/computing/computer-programming/html-css
